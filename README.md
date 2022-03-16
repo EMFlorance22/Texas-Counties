@@ -12,3 +12,5 @@ Once a user clicks on a specific county on the map, the other parts of the visua
 5. One final line graph that shows the trend of personal income growth from 2000-2020 for selected counties versus the state average. If users are interested in salaries and how well jobs in specific counties pay versus the state average, this graph is helpful.
 
 Overall this project involved extensive data collection, cleaning, and transformation of different publicly available datasets in order to create this complicated but beneficial visualization. I personally also learned how long that data cleaning and collection takes and how to work on a team to get a project done. Through this project I learned more about how to analyze and visualize data in Python, specifically in its web-page like visualization library Altair. 
+
+The majority of this project was done using Excel CSV datasets, Jupyter notebook, and Google Colaboratory.
